@@ -25,7 +25,7 @@ Before you begin, make sure you have the following prerequisites installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sahirooh/VisualVerse.git
+   git clone https://github.com/pravee1701/VisualVerse.git
    cd VisualVerse
    ```
 
@@ -80,9 +80,7 @@ We welcome contributions from the community! If you want to contribute to Visual
 4. Push to your branch: `git push origin feature-name`
 5. Submit a pull request detailing your changes.
 
-## License
 
-This project is licensed under the MIT License - see the [MIT](https://opensource.org/license/mit/) file for details.
 
 
 ---
